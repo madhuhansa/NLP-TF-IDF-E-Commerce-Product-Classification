@@ -71,9 +71,9 @@ Resulting in a clean dataset: `processed_ecommerceDataset.csv`, ready for model 
 | File/Folder                 | Description                                           |
 |----------------------------|-------------------------------------------------------|
 | `ecommerceDataset.ipynb`   | Notebook for preprocessing the raw dataset using spaCy |
-| `tfidf_ecommerceDataset.ipynb` | Main notebook for training, evaluation, and testing |
+| `TF-IDF_ecommerceDataset.ipynb` | Main notebook for training, evaluation, and testing |
 | `processed_ecommerceDataset.csv` | Cleaned dataset after text preprocessing           |
-| `best_model_svm.pkl`       | Final saved model using joblib                       |
+| `Model/best_model_svm.pkl`       | Final saved model using joblib                       |
 | `README.md`                | Project overview and usage instructions              |
 
 ---
